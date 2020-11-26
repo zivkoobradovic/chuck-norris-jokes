@@ -1,9 +1,9 @@
 <?php
 
-namespace Zozo\ChuckNorrisJokes\Tests;
+namespace Zivkoobradovic\ChuckNorrisJokes\Tests;
 
 use PHPUnit\Framework\TestCase;
-use Zozo\ChuckNorrisJokes\JokeFactory;
+use Zivkoobradovic\ChuckNorrisJokes\JokeFactory;
 
 class JokeFactoryTest extends TestCase
 {

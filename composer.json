@@ -1,18 +1,18 @@
 {
-    "name": "zozo/chuck-norris-jokes",
+    "name": "zivkoobradovic/chuck-norris-jokes",
     "description": "Great random Chuck Norris jokes",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Zozo",
+            "name": "mpociot/Zivko Obradovic",
             "email": "zozobradovic@gmail.com"
         }
     ],
     "require": {},
     "autoload": {
         "psr-4": {
-            "Zozo\\ChuckNorrisJokes\\":"src/"
+            "Zivkoobradovic\\ChuckNorrisJokes\\":"src/"
         }
     },
     "autoload-dev": {

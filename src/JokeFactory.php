@@ -1,6 +1,6 @@
 <?php
 
-namespace Zozo\ChuckNorrisJokes;
+namespace Zivkoobradovic\ChuckNorrisJokes;
 
 class JokeFactory
 {
